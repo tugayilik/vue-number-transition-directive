@@ -1,5 +1,5 @@
 {
-  "name": "vue-number-transition-directive",
+  "name": "vue-number-transition",
   "version": "1.0.0",
   "description": "Zero dependency, simple animated-like number iteration directive for vue components",
   "main": "src/index.js",

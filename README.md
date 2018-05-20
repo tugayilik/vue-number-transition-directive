@@ -7,13 +7,13 @@ Zero dependency, simple animated-like number iteration directive for vue compone
 via npm
 
 ```bash
-npm install vue-number-transition-directive
+npm install vue-number-transition
 ```
 
 via unpkg
 
 ```bash
-https://unpkg.com/vue-number-transition-directive@1.0.0/src/index.js
+https://unpkg.com/vue-number-transition@1.0.0/src/index.js
 ```
 
 # Usage
@@ -21,7 +21,7 @@ https://unpkg.com/vue-number-transition-directive@1.0.0/src/index.js
 First import the directive and bind it to component's directives.
 
 ```js
-import NumberTransition from 'vue-number-transition-directive';
+import NumberTransition from 'vue-number-transition';
 
 export default {
     directives: {
