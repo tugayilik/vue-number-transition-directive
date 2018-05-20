@@ -1,0 +1,27 @@
+{
+  "name": "vue-number-transition-directive",
+  "version": "1.0.0",
+  "description": "Zero dependency, simple animated-like number iteration directive for vue components",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tugayilik/vue-number-transition-directive.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs2",
+    "vue-directive",
+    "animation",
+    "transition",
+    "number-transformer"
+  ],
+  "author": "Tugay İlik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tugayilik/vue-number-transition-directive/issues"
+  },
+  "homepage": "https://github.com/tugayilik/vue-number-transition-directive#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
