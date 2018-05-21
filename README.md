@@ -1,7 +1,7 @@
 # vue-number-transition-directive
 Zero dependency, simple animated-like number iteration directive for vue components
 
-![](https://im5.ezgif.com/tmp/ezgif-5-1e5dccb691.gif)
+![](https://github.com/tugayilik/vue-number-transition-directive/blob/master/static/logo.gif)
 
 # Install
 via npm
